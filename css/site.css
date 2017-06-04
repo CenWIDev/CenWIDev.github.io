@@ -5,3 +5,15 @@ a:hover {
 .card {
     margin-bottom: 10px;
 }
+
+.github {
+    color: #24292e;
+}
+
+.meetup {
+    color: #ed1c40;
+}
+
+.twitter {
+    color: #1da1f2;
+}
