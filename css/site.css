@@ -19,16 +19,6 @@ a:focus {
     text-decoration: none;
 }
 
-/* highlight social links on hover */
-a.social-link:hover::before {
-    content: "";
-    display: block;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0;
-    left: 0;
-    z-index: 1;
-    background-color: rgba(255, 255, 255, 0.125);
+a.social-link:hover {
+    opacity: 0.7;
 }
-
