@@ -2,6 +2,24 @@
     margin-bottom: 10px;
 }
 
+.cta {
+    padding: 0;
+}
+
+.cta-anchor {
+    color: #fff;
+    background: #444;
+    padding: 10px;
+    margin: 0;
+}
+
+.cta .card-heading {
+    color: #fff;
+    background: #ec2f4b;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
 a.github {
     color: #24292e;
 }
