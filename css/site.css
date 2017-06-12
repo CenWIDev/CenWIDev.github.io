@@ -9,7 +9,8 @@
 }
 
 .event-banner-content {
-    margin: 0;
+    margin-left: 10px;
+    flex: 1;
 }
 
 .event-banner-tag {
@@ -34,7 +35,6 @@
 
 .event-banner-more-info {
     padding: 10px;
-    flex: 1;
     align-self: center;
 }
 
