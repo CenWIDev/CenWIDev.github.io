@@ -2,22 +2,40 @@
     margin-bottom: 10px;
 }
 
-.cta {
+.event-banner-container {
+    color: #fff;
+    background: #444;
     padding: 0;
 }
 
-.cta-anchor {
-    color: #fff;
-    background: #444;
-    padding: 10px;
-    margin: 0;
+.event-banner-content {
+    margin-left: 10px;
+    flex: 1;
 }
 
-.cta .card-heading {
+.event-banner-tag {
+    padding: 5px 15px;
     color: #fff;
     background: #ec2f4b;
+    font-size: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+.event-banner-tag h1 {
+    font-size: 2em;
+    margin: 0;
+    align-self: center;
+}
+
+.event-banner-details {
+    padding-top: 5px;
+    flex: 1;
+}
+
+.event-banner-more-info {
     padding: 10px;
-    margin-bottom: 10px;
+    align-self: center;
 }
 
 a.github {
